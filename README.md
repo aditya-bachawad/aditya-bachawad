@@ -13,8 +13,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Hike and Karaoke
+- 🥅 2021 Goals: Start contributing to Open Source projects.
+- ⚡ Fun fact: I love to Hike and play Pool.
 
 
 
