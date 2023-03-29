@@ -11,9 +11,9 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning about Web 3.0 Applications
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Stay Fit, Apply for GSOC.
+- 🥅 2023 Goals: Stay Fit, Start OpenSource Contribution.
 - ⚡ Fun fact: I love to Hike and play Pool.
 
 
