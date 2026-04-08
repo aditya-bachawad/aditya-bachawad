@@ -76,8 +76,8 @@ Tools & Platforms:
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
 <a href="https://github.com/aditya-bachawad">
-  <img style="height: 200px; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=aditya-bachawad&show_icons=true&theme=dark" alt="Aditya Bachawad GitHub Profile Details" />
-  <img style="height: 200px; width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bachawad&layout=compact&theme=dark" alt="Aditya Bachawad GitHub Stats" />
+  <img style="height: 200px; width: 48%;" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=aditya-bachawad&show_icons=true&theme=dark" alt="Aditya Bachawad GitHub Profile Details" />
+  <img style="height: 200px; width: 48%;" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aditya-bachawad&layout=compact&theme=dark" alt="Aditya Bachawad GitHub Stats" />
 </a>
 </details>
 
