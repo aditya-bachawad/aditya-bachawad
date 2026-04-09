@@ -9,7 +9,7 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
-✨ Sr. Developer | Technical Orchestrator <br>
+✨ Sr. Developer | AI Agent Orchestrator <br>
 💼 Currently working at **RytNow Systems** on the Smart Dispatch and Courier Management System.<br>
 📈 Responsible for driving projects from initiation to closing and coordinating a team of 6.<br>
 🌱 I’m currently learning about Data Science and its applications.<br>
@@ -63,7 +63,7 @@ Tools & Platforms:
 <img src="https://img.shields.io/badge/-PM2-2B037A?logo=pm2&logoColor=white&style=flat" alt="PM2">&nbsp;
 <img src="https://img.shields.io/badge/-Terminal-4D4D4D?logo=windows-terminal&logoColor=white&style=flat" alt="Terminal">&nbsp;<br><br>
 
-**🧠 Technical Orchestrator Skills**<br>
+**🧠 AI Agent Orchestrator Skills**<br>
 <img src="https://img.shields.io/badge/-Agent%20Driven%20Development-8A2BE2?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Prompt%20Engineering-FF4500?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Context%20Engineering-20B2AA?style=flat">&nbsp;
@@ -76,8 +76,8 @@ Tools & Platforms:
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
 <a href="https://github.com/aditya-bachawad">
-  <img style="height: 200px; width: 48%;" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=aditya-bachawad&show_icons=true&theme=dark" alt="Aditya Bachawad GitHub Profile Details" />
-  <img style="height: 200px; width: 48%;" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aditya-bachawad&layout=compact&theme=dark" alt="Aditya Bachawad GitHub Stats" />
+  <img style="height: 200px; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=aditya-bachawad&show_icons=true&theme=dark" alt="Aditya Bachawad GitHub Profile Details" />
+  <img style="height: 200px; width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bachawad&layout=compact&theme=dark" alt="Aditya Bachawad GitHub Stats" />
 </a>
 </details>
 
