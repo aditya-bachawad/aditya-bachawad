@@ -76,8 +76,7 @@ Tools & Platforms:
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
 <a href="https://github.com/aditya-bachawad">
-  <img style="height: 200px; width: 48%;" src="profile/stats.svg" alt="Aditya Bachawad GitHub Profile Details" />
-  <img style="height: 200px; width: 48%;" src="profile/top-langs.svg" alt="Aditya Bachawad GitHub Stats" />
+  <img src="github-metrics.svg" alt="Aditya Bachawad GitHub Metrics" width="100%" />
 </a>
 </details>
 
