@@ -73,36 +73,11 @@ Tools & Platforms:
 <br>
 
 <details>
-<summary><b>⚙️ GitHub Analytics</b></summary>
-<br>
-<a href="https://github.com/aditya-bachawad">
-  <img style="height: 200px; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=aditya-bachawad&show_icons=true&theme=dark" alt="Aditya Bachawad GitHub Profile Details" />
-  <img style="height: 200px; width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bachawad&layout=compact&theme=dark" alt="Aditya Bachawad GitHub Stats" />
-</a>
-</details>
-
-<details>
   <summary><b>📚 Recent Projects @ RytNow Systems</b></summary><br>
 
   ✨ [Smart Dispatch & Courier Management System - Server](https://github.com/RytNow-Systems/SDCMS-Server)<br>
   ✨ [Smart Dispatch & Courier Management System - Mobile App](https://github.com/RytNow-Systems/SDCMS-Mobile-App)<br>
   ✨ [Smart Dispatch & Courier Management System - Web App](https://github.com/RytNow-Systems/SDCMS-Web-App)<br>
-</details>
-
-<details>
-  <summary><b>📈 Get my Code Stats</b></summary><br>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 07 August 2026 - To: 14 August 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 </details>
 
 <br>
